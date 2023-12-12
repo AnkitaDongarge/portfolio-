@@ -12,8 +12,8 @@
 }
 
 :root{
-    background-color: #2A1B3D;
-    background-image: url("images.jpeg");
+    background-color: black;
+    background-image: url("Background1.avif");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -41,7 +41,7 @@ section{
 }
 .logo{
     font-size: 2.5rem;
-    color: #cc6bec;
+    color: #e86161;
     font-weight: 600;
     margin-left: 6rem;
 }
@@ -53,7 +53,7 @@ section{
     margin-right: 3rem;
 }
 .navbar a:hover, .navbar a.active{
-    color: #cc6bec; 
+    color: #e86161; 
 }
 
 .home {
@@ -72,7 +72,7 @@ section{
     font-size: 5.6rem;
     font-weight: 700;
     line-height: 1.3;
-    color: #cc6bec;
+    color: #e86161;
 }
 .home-img{
   padding: 40px;
@@ -104,17 +104,17 @@ section{
     width: 4rem;
     height: 4rem;
     background: transparent;
-    border: .2rem solid #cc6bec;
+    border: .2rem solid #e86161;
     border-radius: 50%;
     font-size: 2rem;
-    color: #cc6bec;
+    color: #e86161;
     margin: 3rem 1.5rem 3rem 0;
     transition: .5s ease;
 }
 .social-media a:hover{
-    background: #cc6bec;
+    background: #e86161;
     color: #2A1B3D;
-    box-shadow: 0 0 1rem #cc6bec;
+    box-shadow: 0 0 1rem #e86161;
 }
 
 .about{
@@ -133,7 +133,7 @@ section{
 .about-content h2{
     text-align: left;
     line-height: 1.2;
-    color: #cc6bec;
+    color: #e86161;
 }
 .about-content h3{
     text-align: left;
@@ -182,7 +182,7 @@ section{
     width: 100%;
     height: 100%;
     object-fit: cover; /* Maintain aspect ratio and cover the entire container */
-    border: 6px solid #cc6bec;
+    border: 6px solid #e86161;
 
     border-radius: 8px;
   }
@@ -216,16 +216,16 @@ section{
     padding: 3rem 2rem 4rem;
     border-radius: 2rem;
     text-align: center;
-    border: .2rem solid #40275f;
+    border: .2rem solid #ff9191;
     transition: .5s ease;
 }
 .skills-container .skill-box:hover{
-    border-color: #cc6bec;
+    border-color: #e86161;
     transform: scale(1.02);
 }
 .skill-box i{
     font-size: 7rem;
-    color: #cc6bec;
+    color: #e86161;
 }
 .skill-box h3{
     font-size: 2.6rem;
@@ -253,13 +253,13 @@ section{
   .contact-info i{
     margin-right: 20px;
     font-size: 25px;
-    color: #cc6bec;
+    color: #e86161;
   }
   .contact-info i:hover{
     border-radius: 2px;
-    background: #cc6bec;
-    color: #2A1B3D;
-    box-shadow: 0 0 1rem #cc6bec;
+    background: #e86161;
+    color: #d15f5f;
+    box-shadow: 0 0 1rem #e86161;
 }
   .contact-form{
     max-width: 700px;
@@ -280,7 +280,7 @@ section{
   .contact-form .text-box{
     background: rgba(0,0,0,0.7);
     color: #fff;
-     border: 1px solid #cc6bec;
+     border: 1px solid #e86161;
    width: 100%;
    height: 40px;
    padding: 10px;
@@ -296,7 +296,7 @@ section{
   .contact-form textarea{
     background: rgba(0,0,0,0.7);
     color: #fff;
-    border: 1px solid #cc6bec;
+    border: 1px solid #e86161;
     width:100%;
     padding: 10px;
     font-size: 15px;
@@ -309,7 +309,7 @@ section{
   }
   .contact-form .send-btn{
     float: right;
-    background: rgb(232, 20, 232);
+    background: rgb(208, 151, 94);
     color: #ffff;
     border: none;
     height: 40px;
